@@ -1,0 +1,59 @@
+## **Array** 
+
+An array is a collection of elements of same data type , stored under single variable name. Arrays's are used when we need to store multiple of values of same type
+or An array is a structured data type consisting of group of elements of same type .
+
+### **1.Types of array**
+ 1. one dimentional array
+ 2. two dimentional array
+ 3. multi dimentional array
+
+#### **1.1 one dimentional array**
+ An array which have elements with single subscript are known as one dimentional array. It is also known as single dimentional array.
+
+#### **syntax**:
+```Datatype nameofthe array[size];
+int a[5] = a(a),a(1),a(2) ,a(3),a(4)
+```
+
+#### **Initilization of 1D Array **
+
+#### **Examples**:
+```int a=5; -- Initalization :
+   int a ; -- Declarization
+
+int a[5] = {1,5,13,17,21}
+#### **Examples**:
+Write a c program to display an array element & read the values from keaboard.
+
+#### **2. Two dimentional array **
+
+An array which have elements with two subscript are known as two dimentional array .
+A two dimentional array consist of rows & colums it is also known as double dimentional array.
+
+#### **syntax**:
+
+Datatype name of array [size of row]. [size of colum];
+
+#### **Example**:
+int a[10] [10];
+float avg [5] [5];
+
+#### **Representation of 2 Dimentional array **
+
+int a[2] [2] = 
+
+a[0] [0] = 1
+a[0] [1] = 2
+a[1] [0] = 3
+a[1] [1] = 4
+        
+
+
+
+
+
+
+
+
+
